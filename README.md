@@ -9,5 +9,3 @@ URL должен быть таким:
  
  Ответ в файле views.py.
  
- 
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
